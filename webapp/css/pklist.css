@@ -1,0 +1,174 @@
+@charset "UTF-8";
+
+.detail{
+ display:none;
+ height: 100px;
+ width: 95%;
+ font-size:small;
+ border-style: ridge;
+
+ }
+ a{
+ text-decoration: none;
+ }
+ ul{
+ list-style: none;
+ border-top: 0.5px solid rgb(192, 192, 192);
+ }
+ 
+.wrap ul{
+	 background-color: #f5f5f5;
+}
+header{
+	font-weight: bold;
+    background-color: #bec6bb;
+    font-size: 30px;
+    color: white;
+}
+.h_wrap{
+	width: 90%;
+	display: flex;
+	text-align : center;
+}
+
+.title{
+	margin-left: 40px;
+	font-size : 30px;
+	color: white;
+}
+.nav{
+	padding-right: 10px;
+	font-size : 15px;
+	position: absolute;
+	right : 300px;
+	top: 20px;
+}
+h2{
+	margin-top : 0px;
+	margin:0px;
+	font-family: fantasy;
+}
+h3 {
+	margin-left: 290px;
+	margin-top: 0px;
+	margin-bottom:0px;
+	font-family: fantasy;
+}
+
+.wrap{
+     width: 800px;
+     padding:0px;
+     padding-top:5px;
+     margin:0px auto; 
+     color:black;   
+}
+
+img{
+ 	height: 200px;
+ 	width: 200px;
+ 	box-shadow: 1px 2px 2px 1px black ;
+ }
+ p {
+ 	padding-left: 15px;
+ 	display: inline-block;
+ 	font-style: normal;
+ 	color : black;
+ }
+ .pk{
+ font-family: fantasy;
+ font-size: 13px;
+ }
+button{
+  border: 0;
+  padding-left: 30px;
+  border-radius: 10px;
+  padding: 15px 25px;
+  display: inline-block;
+  text-align: center;
+  background-color: #c0c0c0;
+  color: white; 
+}
+button:hover{
+  background-color:#d6d6eb;
+  color:#666666;
+}
+
+
+
+header{
+	font-weight: bold;
+    background-color: #bec6bb;
+    font-size: 30px;
+    color: white;
+}
+.h_wrap{
+	width: 100%;
+	display: flex;
+	text-align : center;
+}
+
+.title{
+	margin-left: 40px;
+	font-size : 30px;
+	color: white;
+}
+.nav{
+	padding-right: 10px;
+	font-size : 15px;
+	position: absolute;
+	right : 300px;
+	top: 20px;
+}
+ 
+ section{
+ margin: auto;
+ width: 1200px;
+ padding : auto;
+
+ 
+ }
+ 
+ .footer_wrap{
+ border-top: 1px solid black;
+ 
+ }
+ 
+ 
+ .footer{
+ display: flex;
+ width: 1200px;
+ margin: auto;
+ 
+ }
+ .footer a{
+ 
+ color:black;
+ font-weight: bolder;
+ }
+ .footer1{
+ height:300px;
+ 
+ width: 1000px;
+ }
+ .footer1_1{
+ 
+ font-size: 14px;
+ line-height: 25px;
+ 
+ }
+ .footer1_2{
+ font-size: 11px;
+ font-weight: bolder;
+ margin-top : 10px;
+ 
+ 
+ }
+ 
+ .footer2{
+  font-size: 13px;
+ line-height: 25px;
+ width: 300px;
+ }
+ .footer2 span{
+ color : gray;
+ }
